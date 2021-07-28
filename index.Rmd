@@ -19,7 +19,8 @@ Contact Info {#contact}
 --------------------------------------------------------------------------------
 
 - <i class="fa fa-envelope"></i> a.andreella8@gmail.com
-- <i class="fa fa-envelope"></i> angela.andreella@phd.unipd.it
+- <i class="fa fa-envelope"></i> angela.andreella@unipd.it
+- <i class="fa fa-envelope"></i> angela.andreella@uninsubria.it
 - <i class="fa fa-phone" aria-hidden="true"></i> +393348250566
 - <i class="fa fa-github"></i> [github.com/angeella](https://github.com/angeella)
 - <i class="fa fa-twitter"></i> [aangeella](https://twitter.com/aangeella)
@@ -39,13 +40,13 @@ Computer Skills {#skills}
 
 - **Languages**: R - Python - Matlab - C++ - Markdown - SQL 
 
-- **Other software**: LaTeX - Gimp - FSL - GIT
+- **Other software**: LaTeX - Gimp - FSL - GIT - Moodle
 
 
-Disclaimer {#disclaimer}
---------------------------------------------------------------------------------
+<!-- Disclaimer {#disclaimer} -->
+<!-- -------------------------------------------------------------------------------- -->
 
-This resume was made with the R package [**pagedown**](https://github.com/rstudio/pagedown).
+<!-- This resume was made with the R package [**pagedown**](https://github.com/rstudio/pagedown). -->
 
 
 
@@ -55,13 +56,15 @@ Main
 Angela Andreella {#title}
 --------------------------------------------------------------------------------
 
-### PhD Student - [University of Padova](www.unipd.it)
+### Postdoctoral Researcher - [Università degli studi di Padova](https://www.unipd.it/)
 
-I am a Ph.D. student at the Department of Statistical Sciences of the University of Padova, [Cycle XXXIII](https://www.stat.unipd.it/ricerca/cicli-attivi). I am working with Professor [Livio Finos](http://livioivil.github.io/) about statistical methods to analyze neuroscience data, e.g., fMRI data. Mainly, my interest is to connect the psychological and statistical fields improving both areas. For that, I am a member of the [Psicostat](http://ip146179.psy.unipd.it/psicostat/web/) group at the University of Padua.
+I am a Postdoctoral Researcher at the Department of Statistical Sciences of the University of Padova under the supervision of Professor [Bruno Scarpa](https://homes.stat.unipd.it/brunoscarpa/) and [Livio Finos](https://livioivil.github.io/). We are studying the Procrustes methods in the context of high-dimensional data's functional alignment like fMRI, EEG and genetic data. In particular, we are developing an extension of the famous perturbation model to improve interpretability, inferential proprieties, model flexibility, and optimization of the computational effort.
 
-One project is about a spatial regularization of the Procrustes method used in the functional alignment of brain data, i.e., the von Mises-Fisher-Procrustes model. I am collaborating with Professor [James Haxby](http://haxbylab.dartmouth.edu/ppl/jim.html) from the Department of Psychological and Brain Sciences at Dartmouth College and with the [Haxby Lab](http://haxbylab.dartmouth.edu/index.html).
+I just finished also a Post-Doc at the Department of Science and Technology of the University of Insubria under the supervision of Professor [Antonietta Mira](https://www.uninsubria.it/hpp/antonietta.mira). The project was focused on modeling the data from emergency call centers across the Lombardy region in Italy. I finished my Ph.D. in Statistical Sciences under the supervision of Professor [Livio Finos](http://livioivil.github.io/) about statistical methods to analyze neuroscience data, e.g., fMRI data. Mainly, my interest is to connect the psychological and statistical fields improving both areas. For that, I am a member of the [Psicostat](http://ip146179.psy.unipd.it/psicostat/web/) group at the University of Padova.
 
-Another project is about a permutation-based approach of the [All Resolution Inference](https://www.sciencedirect.com/science/article/abs/pii/S105381191830675X) method under the supervision of Professor [Jelle Goeman](https://www.universiteitleiden.nl/en/staffmembers/jelle-goeman#tab-1) from the Department of Biomedical Data Sciences and Professor [Wouter Weeda](https://www.universiteitleiden.nl/en/staffmembers/wouter-weeda#tab-1) from the Department of Psychology at Leiden University.
+One Ph.D. thesis project is about a spatial regularization of the Procrustes method used in the functional alignment of brain data, i.e., the ProMises (Procrustes von Mises-Fisher) model. I am collaborating with Professor [James Haxby](http://haxbylab.dartmouth.edu/ppl/jim.html) from the Department of Psychological and Brain Sciences at Dartmouth College and with the [Haxby Lab](http://haxbylab.dartmouth.edu/index.html).
+
+Another project of the Ph.D. thesis is about a permutation-based approach of the [All Resolution Inference](https://www.sciencedirect.com/science/article/abs/pii/S105381191830675X) method under the supervision of Professor [Jelle Goeman](https://www.universiteitleiden.nl/en/staffmembers/jelle-goeman#tab-1) from the Department of Biomedical Data Sciences and Professor [Wouter Weeda](https://www.universiteitleiden.nl/en/staffmembers/wouter-weeda#tab-1) from the Department of Psychology at Leiden University.
 
 I am also collaborating with [Paolo Brambilla](https://orcid.org/0000-0002-4021-8456) and [Giuseppe Delvecchio](https://orcid.org/0000-0003-4750-1980) on various psychiatrical and psychological projects.
 
@@ -80,19 +83,39 @@ Education {data-icon=graduation-cap data-concise=true}
 
 ### [University of Padova](www.unipd.it)
 
-[PhD Student](http://www.stat.unipd.it/ricerca/angela-andreella)
+[Postdoctoral Researcher](https://www.stat.unipd.it/ricerca/angela-andreella)
 
-Padua, Italy
+Padova, Italy
 
-10/2017 – now
+05/2021 – Now
 
-Thesis: Multivariate analysis in functional magnetic resonance imaging (fMRI) data
+Project: A Bayesian Approach to the Procrustes problem
+
+### [Università degli studi dell'Insubria](https://www.uninsubria.eu/)
+
+[Postdoctoral Researcher](https://www.uninsubria.it/siti-tematici-o-federati/siti-dei-dipartimenti/dipartimento-di-scienza-e-alta-tecnologia-disat)
+
+Varese, Italy
+
+11/2020 – 05/2021
+
+Project: Progetto Tsunami - Previsione dell’Impatto dell’Ondata COVID-19 sul Sistema di Emergenza e Urgenza in Lombardia
+
+### [University of Padova](www.unipd.it)
+
+[PhD Student](http://www.stat.unipd.it/ricerca/angela-andreella) in Statistical Science
+
+Padova, Italy
+
+10/2017 – 03/2021
+
+Thesis: Challenges in Functional Magnetic Resonance Imaging (fMRI) Data Analysis: From Functional Alignment to Selective Inference
 
 ### [University of Padova](www.unipd.it)
 
 M.S. in Statistical Science - 104
 
-Padua, Italy
+Padova, Italy
 
 10/2013 – 03/2016
 
@@ -102,7 +125,7 @@ Thesis: The Catalan National Movement analyzed by Twitter data.
 
 B.S. in Statistical Science - 110 
 
-Padua, Italy
+Padova, Italy
 
 10/2010 – 04/2013
 
@@ -110,6 +133,14 @@ Thesis: Twitter Sentiment Analysis in Monti's 2013 election campaign.
 
 Study visits {data-icon=graduation-cap data-concise=true}
 --------------------------------------------------------------------------------
+
+### Short Term Scientific Mission
+
+[Data Science Lab](https://www.usi.ch/it), Università della Svizzera Italiana. 
+
+Lugano, Switzerland
+
+10/2020 - 10/2020
 
 ### Visiting PhD Student
 
@@ -138,19 +169,35 @@ Barcelona, Spain.
 Teaching Experience {data-icon=chalkboard-teacher}
 --------------------------------------------------------------------------------
 
-### Tutor - Psychometry - Bachelor Degree of Psychological Sciences of Development Personality and Interpersonal relations
+### Professor - Experimental Design - Bachelor Degree of Statistical Sciences
+
+[Department of Statistical Sciences](http://www.stat.unipd.it)
+
+Padova, Italy
+
+04/2021 - 05/2021
+
+### Tutor - Psychometrics - Bachelor Degree of Psychological sciences and techniques
 
 [Department of Developmental Psychology and Socialization](https://www.psicologia.unipd.it/)
 
-Padua, Italy
+Padova, Italy
+
+03/2021 - 04/2021
+
+### Tutor - Psychometrics - Bachelor Degree of Psychological Sciences of Development Personality and Interpersonal relations
+
+[Department of Developmental Psychology and Socialization](https://www.psicologia.unipd.it/)
+
+Padova, Italy
 
 10/2020 - 01/2021
 
 ### Master's Lesson about Permutation-based Cluster-Mass in EEG data
 
-[Department of Statistical Sciences, University of Padua, Italy](https://www.stat.unipd.it/)
+[Department of Statistical Sciences, University of Padova, Italy](https://www.stat.unipd.it/)
 
-Padua, Italy
+Padova, Italy
 
 06/2020
 
@@ -220,6 +267,22 @@ University of Padova
 Padova, Italy
 
 2017 - Present
+
+### Proposal writing and writing Laboratory
+
+University of Padova
+
+Padova, Italy
+
+2020
+
+### [Image processing and computer vision with R](https://github.com/LStepanek/eRum_2020_image_processing_and_computer_vision_with_R)
+
+eRum 2020 (virtual conference)
+
+Milan, Italy 
+
+2020
 
 ### [Statistical Consulting](https://www.stat.unipd.it/ricerca/dottorato-di-ricerca/courses-seminars-and-events/statistical-consulting) - [COVID-19 analysis](https://github.com/angeella/Lockdown_policies_COVID19)
 
@@ -336,23 +399,43 @@ Jyvaskyla, Finland
 Publications {data-icon=file}
 --------------------------------------------------------------------------------
 
+### Valid Double-Dipping via Permutation-Based Closed Testing.
+
+[Preface XIX 1 Plenary Sessions](https://it.pearson.com//docenti/universita/partnership/sis.html)
+
+N/A
+
+2021
+
+Vesely, A., Finos, L., Goeman, J. J., & **Andreella, A.** 
+
+### Functional alignment by the ``light'' approach of the von Mises-Fisher-Procrustes model.
+
+[Preface XIX 1 Plenary Sessions](https://it.pearson.com//docenti/universita/partnership/sis.html)
+
+N/A
+
+2021
+
+**Andreella, A.**, Finos, L.
+
 ### Permutation-based true discovery proportions for fMRI cluster analysis.
 
 To be submitted
 
 N/A
 
-2020
+2021
 
 **Andreella, A.**, Goeman, J., Weeda, W., Hemerik, J., Solari, A., and Finos, L.
 
-### The von Mises-Fisher-Procrustes model in functional Magnetic Resonance Imaging data.
+### Procrustes Analysis for High-Dimensional Data
 
-To be submitted
+Submitted
 
 N/A
 
-2020
+2021
 
 **Andreella, A.**, and Finos, L.
 
@@ -362,7 +445,7 @@ To be submitted
 
 N/A
 
-2020
+2021
 
 **Andreella, A.**, Feilong, M., Halchenko, Y., Haxby, J. V. L., and Finos, L.
 
@@ -411,6 +494,22 @@ Talks {data-icon=chalkboard-teacher}
 
 ### pARI package: valid double-dipping via permutation-based All Resolutions Inference
 
+[useR 2021](https://user2021.r-project.org/join/) 
+
+Virtual conference
+
+07/2021
+
+### Functional alignment by the ``light'' approach of the von Mises-Fisher-Procrustes model.
+
+[SiS 2021](https://meetings3.sis-statistica.org/index.php/sis2021/sis2021) 
+
+Virtual conference
+
+06/2021
+
+### pARI package: valid double-dipping via permutation-based All Resolutions Inference
+
 [EuroBioC2020](https://eurobioc2020.bioconductor.org/conference_schedule.html) 
 
 Virtual conference
@@ -429,7 +528,7 @@ Brixen, Italy
 
 [6th European Student Conference on Behaviour & Cognition](https://escbc.org/)
 
-Padua, Italy
+Padova, Italy
 
 09/2019
 
@@ -437,7 +536,7 @@ Padua, Italy
 
 [Psicostat 3.1](http://ip146179.psy.unipd.it/psicostat/web/psicostat3_1.html)
 
-Padua, Italy
+Padova, Italy
 
 12/2019
 
@@ -461,7 +560,7 @@ Leiden, Netherlands
 
 [Psicostat 3.0](http://ip146179.psy.unipd.it/psicostat/web/psicostat3.html)
 
-Padua, Italy
+Padova, Italy
 
 04/2019
 
@@ -496,7 +595,7 @@ Virtual conference
 
 Zero Tre, Prospettive e Nuove Ricerche in Psicometria
 
-Padua, Italy
+Padova, Italy
 
 10/2019
 
@@ -519,10 +618,26 @@ N/A
 
 N/A
 
+### Member of Institute of Mathematical Statistics (IMS)
+
+[Institute of Mathematical Statistics](https://imstat.org/)
+
+N/A
+
+N/A
+
 Honours and awards {data-icon=award}
 --------------------------------------------------------------------------------
 
-### Scholarship for excellence by the University of Padua
+### Scholarship for Short Term Scientific Mission by COST Action
+
+N/A
+
+N/A
+
+2020
+
+### Scholarship for merit by the University of Padova
 
 N/A
 
@@ -573,7 +688,13 @@ N/A
 
 N/A
 
-### [vMFPmodel](https://github.com/angeella/vMFPmodel) 
+### [ProMisesModel](https://github.com/angeella/ProMisesModel) 
+
+N/A
+
+N/A
+
+### [ProMises](https://github.com/angeella/ProMises) 
 
 N/A
 
